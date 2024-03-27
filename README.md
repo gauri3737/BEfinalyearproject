@@ -5,5 +5,5 @@ Our project aims to develop an efficient solution for detecting deepfake images 
 Dataset = "https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces"
 Web Application Interface
 
- 317005252-32f37b8f-a65f-4c2d-a28a-61597ad6dca4.1.mp4
+ 
  
